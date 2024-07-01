@@ -78,3 +78,5 @@ md5sum ~/elasticsearch-snapshots/path/to/file
 
 By following these steps, you can download your Elasticsearch snapshots from AWS OpenSearch to your local disk storage while maintaining data integrity.
 
+## Copy ES snapshot from local to GCP Elasticsearch
+TBA
